@@ -1,0 +1,9 @@
+{
+  "plugins": [
+      "transform-react-jsx",
+      "transform-object-rest-spread",
+      "transform-decorators-legacy",
+      "transform-class-properties",
+      "transform-es2015-classes"
+  ]
+}
