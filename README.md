@@ -1,4 +1,4 @@
-# Example React App Kanban Board Using Drag n' Drop
+# Example React App Kanban Board Using Drag & Drop
 
 # Installation
 
